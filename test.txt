@@ -1,0 +1,1 @@
+BES12 allows you to securely manage mobile devices and other endpoints across different operating systems (iOS?, Android? ¨C including Android? for Work and Samsung KNOX? ¨C Windows? and BlackBerry?) and ownership models (personally owned or corporate liable devices).
